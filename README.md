@@ -4,6 +4,8 @@
 
 Так же есть чужая реализация данного алгоритма на языке **C** [DES](https://github.com/number571/C/blob/master/Cryptography/DES.c)
 
+[Таблицы перестановок, замен и расширений](https://en.wikipedia.org/wiki/DES_supplementary_material)
+
 ## Описание алгоритма
 
 **Data Encryption Standard (DES)** — это симметричный алгоритм шифрования, который использует 56-битный ключ для защиты данных. 
