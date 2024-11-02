@@ -2,7 +2,7 @@
 
 Данный алгоритм реализован на языке **Python**
 
-Так же есть реализация данного алгоритма на языке C Cryptography/DES.c
+Так же есть реализация данного алгоритма на языке C [Cryptography/DES.c](https://github.com/number571/C/blob/master/Cryptography/DES.c)
 
 ## Описание алгоритма
 
